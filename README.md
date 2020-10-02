@@ -5,6 +5,10 @@
 ## Reading world attractions, Sharing travel experiences
 ## 解读世界景点，分享旅游心得 
 
+# 首页readme.md 含有图片显示
+## 若图片不能正常显示，请百度: “github图片无法显示”， 轻松解决！
+## 若图片不能正常显示，请百度: “github图片无法显示”， 轻松解决！
+
 ## 1.概述 ##
 
     本项目是将去过的旅游景点和路线进行梳理，形成实用详细的旅游攻略，以供大家参考。
